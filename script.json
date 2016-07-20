@@ -3,9 +3,7 @@
     "HEY": "Hey, I'm so glad you set Amibot up! Do you want to tell Amit that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HIM": "Let's tweet @amit_pande so he knows you're hangin' out. %[Tweet Amit](https://twitter.com/amit_pande)",
     "I LOVE YOU": "No you don't. Get a coffee quick!",
-    "test1": "pingback1",
-    "test2": "pingback2",
-    "test3": "pingback3",
+    "TEST1": "pingback1",
     "CONNECT ME": "",
     "DISCONNECT": "Sure thing, Amibot is back."
 }
