@@ -1,6 +1,5 @@
 {
     "BOT": "Hola!\nI’m a bot experiment for Amit Pande.\n![amit](https://github.com/raymobius/EstherBot/blob/master/img/mcmaya.jpg)",
-    "One Random Fact!" 
     "HEY": "Hey, I'm so glad you set Amibot up! Do you want to tell Amit that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HIM": "Let's tweet @amit_pande so he knows you're hangin' out. %[Tweet Amit](https://twitter.com/amit_pande)",
     "I LOVE YOU": "No you don't. Get a coffee quick!",
