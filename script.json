@@ -1,8 +1,12 @@
 {
-    "BOT": "Hola!\nI’m an bot experiment for Amit who lives in San Francisco.\n![amit](https://github.com/raymobius/EstherBot/blob/master/img/mcmaya.jpg)\nWant to know more about bots or learn about Amit? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Amit](postback:learn_about_amit) %[One random fact!](postback:random_fact)",
+    "BOT": "Hola!\nI’m a bot experiment for Amit Pande.\n![amit](https://github.com/raymobius/EstherBot/blob/master/img/mcmaya.jpg)",
+    "One Random Fact!" 
     "HEY": "Hey, I'm so glad you set Amibot up! Do you want to tell Amit that you're talking to his bot? %[Tell him](postback:twitter)",
-    "TELL HIM": "Let's tweet @amit_pande so he knows you're hangin' out. Here's a tweet that's ready to go: %[Tweet Amit](http://bit.ly/estherbot-tweet)",
-    "I LOVE YOU": "Meh. Love is overrated!",
+    "TELL HIM": "Let's tweet @amit_pande so he knows you're hangin' out. %[Tweet Amit](https://twitter.com/amit_pande)",
+    "I LOVE YOU": "No you don't. Get a coffee quick!",
+    "test1": "pingback1",
+    "test2": "pingback2",
+    "test3": "pingback3",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, Amibot is back."
+    "DISCONNECT": "Sure thing, Amibot is back."
 }
