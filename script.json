@@ -1,9 +1,9 @@
 {
-    "BOT": "Hola!\n I’m a bot experiment for Amit Pande \n![](https://pbs.twimg.com/profile_images/701541027505549312/V8hIwwO0.jpg)",
+    "BOT": "Hi there.\n I’m a bot experiment for Amit Pande. Sa \n![](https://pbs.twimg.com/profile_images/701541027505549312/V8hIwwO0.jpg)",
     "HEY": "Hey, I'm so glad you set Amibot up! Do you want to tell Amit that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HIM": "Let's tweet @amit_pande so he knows you're hangin' out. %[Tweet Amit](https://twitter.com/amit_pande)",
-    "I LOVE YOU": "No you don't. Get a coffee quick!",
-    "TEST1": "pingback1",
-    "CONNECT ME": "",
+    "I LOVE YOU": "No you don't. Get a coffee and wake up yo!",
+    "SURVEY": "On a scale of 1 to 10 how are you feeling right now",
+    "7": "Hmm. Could be better eh? Lets try something. Tell me one thing that would make it an 8 for you",
     "DISCONNECT": "Sure thing, Amibot is back."
 }
